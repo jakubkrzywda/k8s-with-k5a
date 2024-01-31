@@ -1,0 +1,10 @@
+apiVersion: discovery.k8s.io/v1
+kind: EndpointSlice
+metadata:
+  name: headless-without-selectors-1
+  labels:
+    kubernetes.io/service-name: headless-without-selectors
+addressType: IPv4
+endpoints:
+  - addresses:
+      - "10.244.0.3"
