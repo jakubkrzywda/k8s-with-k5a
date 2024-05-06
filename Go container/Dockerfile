@@ -9,6 +9,6 @@ COPY *.go ./
 
 RUN go build -o /myapp
 
-USER 1000
+USER 10000
 
 CMD ["/myapp"]
