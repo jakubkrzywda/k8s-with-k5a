@@ -15,4 +15,4 @@ Follow me on LinkedIn so you don’t miss my next posts!
 Looking for training in Kubernetes or other Cloud Native technologies?
 Enrol today in the course that best suits your needs using [this registration form](https://elastisys.com/training-register/)!
 
-![LinkedInBannerK8sAndDevOpsTraining](https://github.com/jakubkrzywda/k8s-with-k5a/assets/7603614/73b12cfc-0ce5-4277-a6f6-10de379dd496)
+![LinkedInBannerK8sAndDevOpsTraining](https://github.com/jakubkrzywda/k8s-with-k5a/assets/7603614/56515398-53d1-4f49-82f1-1a97634f57a3)
