@@ -8,7 +8,7 @@ RUN dotnet restore
 COPY . .
 RUN dotnet publish -o /app
 
-USER 10000
+USER $APP_UID
 
 ENV ASPNETCORE_URLS=http://+:5000/
 EXPOSE 5000
