@@ -1,0 +1,22 @@
+FROM python:3.12-slim AS build
+
+WORKDIR /usr/app
+
+RUN python -m venv /usr/app/venv
+ENV PATH="/usr/app/venv/bin:$PATH"
+
+COPY requirements.txt .
+RUN pip install -r requirements.txt
+
+
+FROM gcr.io/distroless/python3:nonroot
+
+WORKDIR /usr/app/venv
+COPY --from=build /usr/app/venv ./venv
+
+COPY app.py .
+
+USER 65532
+
+ENV PATH="/usr/app/venv/bin:$PATH"
+CMD ["app.py"]
