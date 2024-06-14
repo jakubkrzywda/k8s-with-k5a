@@ -1,4 +1,4 @@
-![LinkedIn Banner K8s and DevOps Training with Photo](https://github.com/jakubkrzywda/k8s-with-k5a/assets/7603614/4c61854a-5bf4-4754-9d4f-456ee9561d9c)
+![LinkedIn Banner K8s and DevOps Training](https://github.com/jakubkrzywda/k8s-with-k5a/assets/7603614/f32805c8-8945-4d45-bd64-27e45b88a55e)
 
 # k8s-with-k5a
 
@@ -15,4 +15,4 @@ Follow me on LinkedIn so you don’t miss my next posts!
 Looking for training in Kubernetes or other Cloud Native technologies?
 Enrol today in the course that best suits your needs using [this registration form](https://elastisys.com/training-register/)!
 
-![LinkedInBannerK8sAndDevOpsTraining](https://github.com/jakubkrzywda/k8s-with-k5a/assets/7603614/56515398-53d1-4f49-82f1-1a97634f57a3)
+![LinkedInBannerK8sAndDevOpsTraining](https://github.com/jakubkrzywda/k8s-with-k5a/assets/7603614/65a44134-b9d8-4fea-8784-3d76b0d401fe)
